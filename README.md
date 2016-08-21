@@ -1,2 +1,2 @@
-# Path-of-Webmaster
+# Path of Webmaster
 Worksheet for Webmaster training
